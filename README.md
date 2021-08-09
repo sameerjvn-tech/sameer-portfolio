@@ -1,6 +1,6 @@
 # Sameer Jathavedan's Portfolio
 
-## Project 1: Image Classifier trained using transfer learning: Mask detector
+## [Project 1: Image Classifier trained using transfer learning: Mask detector](https://github.com/sameerjvn-dl/maskON)
 A simple two output Classifier that detects whether a face has a mask on or off. This project demonstrates how a small dataset (~350) images can be used to achieve near-100% accuracy with the use of pre-trained existing models.
 
 - Scraped 191 images of people with a mask and 114 images of people without masks from duckduckgo.com
@@ -9,7 +9,6 @@ A simple two output Classifier that detects whether a face has a mask on or off.
 
  Deployed at - https://mask-on-clf.herokuapp.com/
 
- Code available at - https://github.com/sameerjvn-dl/maskON
 
  Dataset available at - https://drive.google.com/drive/folders/1WPct1tTUFw5oJAmmu303A-kCZ_mTpm4B?usp=sharing
  
