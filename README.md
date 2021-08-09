@@ -7,10 +7,7 @@ A simple two output Classifier that detects whether a face has a mask on or off.
 - Augmented the images using fastai's transform options for the DataBlock class
 - Fine tuned on a pretrained RESNET-18 model for 100% accuracy on validation set.
 
- Deployed at - https://mask-on-clf.herokuapp.com/
-
-
- Dataset available at - https://drive.google.com/drive/folders/1WPct1tTUFw5oJAmmu303A-kCZ_mTpm4B?usp=sharing
+ Deployed at - [MaskON Classifier](https://mask-on-clf.herokuapp.com/)
  
 ![Screenshot from 2021-08-09 08-41-57](https://user-images.githubusercontent.com/73538259/128656854-b0b481f7-c8c7-4835-be93-ac3bf6cabe80.png)
 ![Screenshot from 2021-08-09 08-43-20](https://user-images.githubusercontent.com/73538259/128656858-7e0e0202-6339-44ab-bdd0-e3c0c2116a9c.png)
