@@ -13,6 +13,5 @@ A simple two output Classifier that detects whether a face has a mask on or off.
 
  Dataset available at - https://drive.google.com/drive/folders/1WPct1tTUFw5oJAmmu303A-kCZ_mTpm4B?usp=sharing
  
- 
-![Screenshot from 2021-08-09 08-26-51](https://user-images.githubusercontent.com/73538259/128656171-949a4fef-eaa2-400f-890b-1da766fcc8dc.png)
-![Screenshot from 2021-08-09 08-28-33](https://user-images.githubusercontent.com/73538259/128656174-48c79a4b-44b9-4a5e-818c-abc5ac14dc12.png)
+![Screenshot from 2021-08-09 08-41-57](https://user-images.githubusercontent.com/73538259/128656854-b0b481f7-c8c7-4835-be93-ac3bf6cabe80.png)
+![Screenshot from 2021-08-09 08-43-20](https://user-images.githubusercontent.com/73538259/128656858-7e0e0202-6339-44ab-bdd0-e3c0c2116a9c.png)
