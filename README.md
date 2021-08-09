@@ -4,7 +4,7 @@
 A simple two output Classifier that detects whether a face has a mask on or off. This project demonstrates how a small dataset (~350) images can be used to achieve near-100% accuracy with the use of pre-trained existing models.
 
 - Scraped 191 images of people with a mask and 114 images of people without masks from duckduckgo.com
-- Augmented the images using fastai's item_tfms=RandomResizedCrop() option for the DataBlock class
+- Augmented the images using fastai's transform options for the DataBlock class
 - Fine tuned on a pretrained RESNET-18 model for 100% accuracy on validation set.
 
  Deployed at - https://mask-on-clf.herokuapp.com/
